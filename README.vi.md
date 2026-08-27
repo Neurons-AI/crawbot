@@ -6,7 +6,7 @@
 <h1 align="center">AICoworker</h1>
 
 <p align="center">
-  <strong>Trợ lý AI Agentic cho công việc tri thức</strong>
+  <strong>Agentic AI Platform - Unified platform for AI Agents training, running and distributing</strong>
 </p>
 
 <p align="center">
