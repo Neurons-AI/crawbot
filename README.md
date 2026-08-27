@@ -6,7 +6,7 @@
 <h1 align="center">AICoworker</h1>
 
 <p align="center">
-  <strong>Agentic AI Assistant for knowledge work</strong>
+  <strong>Agentic AI Platform - Unified platform for AI Agents training, running and distributing</strong>
 </p>
 
 <p align="center">
