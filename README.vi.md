@@ -6,7 +6,7 @@
 <h1 align="center">AICoworker</h1>
 
 <p align="center">
-  <strong>Agentic AI Platform - Unified platform for AI Agents training, running and distributing</strong>
+  <strong>Agentic AI Platform - Nền tảng hợp nhất huấn luyện, vận hành và phân phối AI Agents</strong>
 </p>
 
 <p align="center">
